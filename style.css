@@ -474,6 +474,7 @@ body {
 }
 .project-5 {
   background: linear-gradient(135deg, #fa709a, #fee140);
+  background: url(./images/sunny-side.png) center/cover;
 }
 .project-6 {
   background: linear-gradient(135deg, #a8edea, #fed6e3);
