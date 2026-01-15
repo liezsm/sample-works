@@ -478,6 +478,7 @@ body {
 }
 .project-6 {
   background: linear-gradient(135deg, #a8edea, #fed6e3);
+  background: url(./images/petadoptioncenter.png) center/cover;
 }
 
 /* Mobile optimizations */
