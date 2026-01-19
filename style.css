@@ -309,7 +309,8 @@ body {
 }
 
 /* Different sizes for masonry effect */
-.portfolio-item:nth-child(1) {
+.portfolio-item:nth-child(1),
+.portfolio-item:nth-child(7) {
   grid-row: span 2;
   animation: slideInLeft 1s ease-out 1.8s forwards;
 }
@@ -454,6 +455,9 @@ body {
   font-size: 0.95rem;
   line-height: 1.5;
 }
+.project-description a {
+  color: #ff8c42;
+}
 
 /* Project background images */
 .project-1 {
@@ -479,6 +483,10 @@ body {
 .project-6 {
   background: linear-gradient(135deg, #a8edea, #fed6e3);
   background: url(./images/petadoptioncenter.png) center/cover;
+}
+.project-7 {
+  background: linear-gradient(135deg, #a8edea, #fed6e3);
+  background: url(./images/MNTN-Landing\ Page.png) center/cover;
 }
 
 /* Mobile optimizations */
