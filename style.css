@@ -5,7 +5,11 @@
 }
 
 body {
-  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  font-family:
+    "Segoe UI",
+    system-ui,
+    -apple-system,
+    sans-serif;
   background: #0d0d0d;
   color: white;
   overflow-x: hidden;
@@ -487,6 +491,10 @@ body {
 .project-7 {
   background: linear-gradient(135deg, #a8edea, #fed6e3);
   background: url(./images/MNTN-Landing\ Page.png) center/cover;
+}
+.project-8 {
+  background: linear-gradient(135deg, #a8edea, #fed6e3);
+  background: url(./images/toolshedguide.png) center/cover;
 }
 
 /* Mobile optimizations */
