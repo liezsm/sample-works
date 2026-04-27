@@ -496,6 +496,10 @@ body {
   background: linear-gradient(135deg, #a8edea, #fed6e3);
   background: url(./images/toolshedguide.png) center/cover;
 }
+.project-9 {
+  background: linear-gradient(135deg, #a8edea, #fed6e3);
+  background: url(./images/rubbishpickup.png) center/cover;
+}
 
 /* Mobile optimizations */
 @media (max-width: 768px) {
